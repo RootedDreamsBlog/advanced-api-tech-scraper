@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Configuration
-Create a .env file in the root directory:
+Create a .env file in the root directory and add the following entry:
 
 **SCRAPING_API_KEY=your_key_here**
 
@@ -65,7 +65,8 @@ python scraper_api.py
 This project uses .env files to keep API credentials secure. The .env file is included in .gitignore to prevent sensitive data from being pushed to public version control.
 
 ## Preview
-
+### Terminal Output
+![Terminal Success Message](assets/images/preview-terminal.png)
 
 ## Contact
 Built by **RootedDreamsBlog** (https://www.rooteddreams.net) or read the full article on **web scraping API Python** at https://www.rooteddreams.net/web-scraping-api-python/
