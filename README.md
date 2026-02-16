@@ -1,5 +1,8 @@
 # Advanced Tech News Scraper (API-Based)
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A modern Python data collection tool designed to handle JavaScript-heavy websites and bypass sophisticated anti-bot systems using a managed Scraping API.
 
 ## Why this exists?
